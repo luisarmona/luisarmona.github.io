@@ -19,8 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Luis Armona
+title_html: Luis Armona
 email: larmona@stanford.edu
-description: ""
+description: |+
+        Landau Economics Building<br>
+        579 Jane Stanford Way<br>
+        Stanford, CA 94305-6072
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

@@ -9,4 +9,4 @@ I am a 5th-Year PhD Student in the Economics Department at Stanford University. 
 
 My research interests lie in industrial organization, the economics of information, postsecondary education, and how machine learning methods can be used to enhance existing economic models.
 - Primary Advisor: Matthew Gentzkow
-- Fields: Industrial Organization/Economics of Education
+- Fields: Industrial Organization, Economics of Education
