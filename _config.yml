@@ -27,8 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  luisarmona
 scholar: juU250QAAAAJ
 # Build settings
-theme: academic
-#remote_theme:benbalter/retlab
+#theme: academic
+remote_theme:gaalcaras/academic
 #plugins:
 #  - jekyll-feed
 author: Luis Armona
