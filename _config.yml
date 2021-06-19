@@ -21,10 +21,7 @@
 title: Luis Armona
 title_html: Luis Armona
 email: larmona@stanford.edu
-description: |+
-        Landau Economics Building<br>
-        579 Jane Stanford Way<br>
-        Stanford, CA 94305-6072
+description: Luis Armona's personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,8 +32,13 @@ ssrnid: 2354829
 # Build settings
 theme: minima
 #remote_theme: gaalcaras/academic
-#plugins:
-#  - jekyll-feed
+address: |+
+        Landau Economics Building<br>
+        579 Jane Stanford Way<br>
+        Stanford, CA 94305-6072
+
+plugins:
+  - jekyll-seo-tag
 author: Luis Armona
 email: larmona@stanford.edu
 curriculum:  
