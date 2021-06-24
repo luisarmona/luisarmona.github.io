@@ -43,7 +43,7 @@ plugins:
 author: Luis Armona
 email: larmona@stanford.edu
 curriculum:  
-        url: res.pdf
+        url: cv.pdf
         name: CV
 # Exclude from processing.
 # The following items will not be processed, by default.
