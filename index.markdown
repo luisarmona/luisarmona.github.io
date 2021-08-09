@@ -6,7 +6,7 @@ layout: about
 #title: Luis Armona
 ---
 
-I am a 5th-Year PhD Student in the Economics Department at Stanford University. I have interned in the past at Chegg and Microsoft Research.  Before graduate school, I worked as an RA at the New York Federal Reserve. I will be on the academic job market in the 2021-2022 school year.  
+I am a 6th-Year PhD Student in the Economics Department at Stanford University. I have interned in the past at Chegg and Microsoft Research.  Before graduate school, I worked as an RA at the New York Federal Reserve. I will be on the academic job market in the 2021-2022 school year.  
 
 My research interests lie in industrial organization, postsecondary education and college behavior, the economics of information, and how machine learning methods can be used to enhance existing economic models.
 - Primary Advisor: Matthew Gentzkow
