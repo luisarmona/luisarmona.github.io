@@ -20,7 +20,7 @@
 
 title: Luis Armona
 title_html: Luis Armona
-email: larmona@stanford.edu
+email: larmona@hks.harvard.edu
 #description: Luis Armona's personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -41,7 +41,7 @@ description: |+
 plugins:
   - jekyll-seo-tag
 author: Luis Armona
-email: larmona@stanford.edu
+email: larmona@hks.harvard.edu
 curriculum:  
         url: cv_LA.pdf
         name: CV
