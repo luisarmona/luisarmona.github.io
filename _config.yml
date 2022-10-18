@@ -34,9 +34,9 @@ theme: minima
 #remote_theme: gaalcaras/academic
 description: |+
         <b>Luis Armona</b><br>
-        Landau Economics Building<br>
-        579 Jane Stanford Way<br>
-        Stanford, CA 94305-6072
+        NBER<br>
+        1050 Massachusetts Avenue<br>
+        Cambridge, MA 02138-5398
 
 plugins:
   - jekyll-seo-tag
