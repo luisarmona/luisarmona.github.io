@@ -16,7 +16,7 @@ permalink: /research/
 
 ### Working Papers 
 
-- [Redesigning Federal Student Aid in Higher Education](https://www.dropbox.com/s/39qrk9c1eezgser/jmp_armona.pdf?dl=0) (with Shengmao Cao). Job Market Paper.
+- [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
 
 - [Learning Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). 
 
