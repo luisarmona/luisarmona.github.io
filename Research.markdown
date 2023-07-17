@@ -16,13 +16,11 @@ permalink: /research/
 
 ### Working Papers 
 
-- [Redesigning Federal Student Aid in Higher Education](https://www.dropbox.com/s/39qrk9c1eezgser/jmp_armona.pdf?dl=0) (with Shengmao Cao). Job Market Paper.
+- [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
 
 - [Learning Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). 
 
-- [Informational Inequality in Online Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730109) (with Mohammad Rasouli).
-
-- [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381938). _Revise and Resubmit, Review of Economics and Statistics_.
+- [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381938). _Accepted, Review of Economics and Statistics_.
 	- Data: [Facebook Release Dates for First 874 Colleges](FB_introduction_dates_augmented.csv)
 
 ### Work in Progress
