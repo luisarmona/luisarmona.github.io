@@ -28,7 +28,7 @@ permalink: /research/
 
 - What is Newsworthy? Information and Bias in the Filtering of News (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro).
 
-- The Effects of Social Network Access on Long-term Outcomes (with Mike Bailey).
+- The Long-term Effects of Expanding Social Capital via Social Media (with Mike Bailey).
 
 - The U.S. Consumer Firearms Industry: Equilibrium and Implications for Gun Policy (with Adam Rosenberg).
 

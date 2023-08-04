@@ -6,8 +6,6 @@ layout: about
 #title: Luis Armona
 ---
 
-I am a post-doctoral fellow at the NBER in Cambridge, Massachusetts. I graduated from Stanford University in 2022 with a Ph.D. in Economics. I have interned in the past at Chegg and Microsoft Research. I am also currently a research advisor at Meta. Before graduate school, I worked as an RA at the New York Federal Reserve. 
+I am an Assistant Professor of Public Policy at the Kennedy School of Government at Harvard University. I graduated from Stanford University in 2022 with a Ph.D. in Economics. In the past, I have worked at the past at Chegg and Microsoft Research, and served as a research advisor at Meta. Before graduate school, I worked as an RA at the New York Federal Reserve. For the 2022-23 academic year, I was a post-doctoral fellow at the NBER.
 
-I will be an Assistant Professor of Public Policy at the Kennedy School of Government at Harvard University, starting in the 2023-2024 school year. 
-
-My research interests lie in industrial organization, postsecondary education and college behavior, the economics of information, and how machine learning methods can be used to enhance existing economic models.
+My research interests lie in industrial organization, with applications to college behavior in post-secondary education, firearms markets, and how machine learning methods can be used to enhance existing economic models.

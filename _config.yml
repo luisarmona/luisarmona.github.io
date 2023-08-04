@@ -34,9 +34,9 @@ theme: minima
 #remote_theme: gaalcaras/academic
 description: |+
         <b>Luis Armona</b><br>
-        NBER<br>
-        1050 Massachusetts Avenue<br>
-        Cambridge, MA 02138-5398
+        Kennedy School of Government<br>
+        79 John F Kennedy Street<br>
+        Cambridge, MA 02138
 
 plugins:
   - jekyll-seo-tag
