@@ -17,7 +17,7 @@ permalink: /research/
 ### Working Papers 
 
 - [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
-
+	- Data: [College-level Value-added Estimates for Long-Run Earnings](VA_ests.csv) ([README](VA_readme.txt))
 - [Learning Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). 
 
 - [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381938). _Accepted, Review of Economics and Statistics_.
