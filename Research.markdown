@@ -18,18 +18,18 @@ permalink: /research/
 
 - [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
 	- Data: [College-level Value-added Estimates for Long-Run Earnings](VA_ests.csv) ([README](VA_readme.txt))
-- [Learning Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). 
-
+- [Learning Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). _Revise and Resubmit, Marketing Science_ 
+	- Python Package: [Learning-Mkt-Struct](https://github.com/luisarmona/learning-mkt-struct)
 - [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381938). _Accepted, Review of Economics and Statistics_.
 	- Data: [Facebook Release Dates for First 874 Colleges](FB_introduction_dates_augmented.csv)
 
+- [The U.S. Consumer Firearms Industry: Welfare and Policy Implications](https://conference.nber.org/conf_papers/f193020.pdf) (with Adam Rosenberg).
+
+ 
 ### Work in Progress
 
 
 - What is Newsworthy? Information and Bias in the Filtering of News (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro).
 
 - The Long-term Effects of Expanding Social Capital via Social Media (with Mike Bailey).
-
-- The U.S. Consumer Firearms Industry: Equilibrium and Implications for Gun Policy (with Adam Rosenberg).
-
  
