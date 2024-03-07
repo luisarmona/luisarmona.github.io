@@ -23,11 +23,11 @@ permalink: /research/
 - [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381938). _Accepted, Review of Economics and Statistics_.
 	- Data: [Facebook Release Dates for First 874 Colleges](FB_introduction_dates_augmented.csv)
 
-- [The U.S. Consumer Firearms Industry: Welfare and Policy Implications](https://conference.nber.org/conf_papers/f193020.pdf) (with Adam Rosenberg).
-
- 
 ### Work in Progress
 
+- The U.S. Consumer Firearms Industry: Welfare and Policy Implications (with Adam Rosenberg).
+
+ 
 
 - What is Newsworthy? Information and Bias in the Filtering of News (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro).
 
