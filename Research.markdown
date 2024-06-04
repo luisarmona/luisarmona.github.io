@@ -12,24 +12,23 @@ permalink: /research/
 
 - [Student debt and default: The role of for-profit colleges](https://www.sciencedirect.com/science/article/abs/pii/S0304405X21005250) (with Rajashri Chakrabarti and Michael Lovenheim). _Journal of Financial Economics_, 2022.
 
+- [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01354/116979/Online-Social-Network-Effects-in-Labor-Markets?redirectedFrom=fulltext). _Review of Economics and Statistics_, 2023.
+	- Data: [Facebook Release Dates for First 874 Colleges](FB_introduction_dates_augmented.csv)
 
+- [Measuring the Market for Legal Firearms](https://www.aeaweb.org/articles?id=10.1257/pandp.20241082) (with Adam M. Rosenberg). _AEA Papers and Proceedings_, 2024.
 
 ### Working Papers 
 
 - [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
 	- Data: [College-level Value-added Estimates for Long-Run Earnings](VA_ests.csv) ([README](VA_readme.txt))
-- [Learning Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). _Revise and Resubmit, Marketing Science_ 
+- [Learning Latent Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). _Accepted, Marketing Science_ 
 	- Python Package: [Learning-Mkt-Struct](https://github.com/luisarmona/learning-mkt-struct)
-- [Online Social Network Effects in Labor Markets: Evidence From Facebook's Entry into College Campuses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381938). _Accepted, Review of Economics and Statistics_.
-	- Data: [Facebook Release Dates for First 874 Colleges](FB_introduction_dates_augmented.csv)
+
+- [What is Newsworthy? Theory and Evidence](https://www.nber.org/papers/w32512) (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro).
 
 ### Work in Progress
 
 - The U.S. Consumer Firearms Industry: Welfare and Policy Implications (with Adam Rosenberg).
-
- 
-
-- What is Newsworthy? Information and Bias in the Filtering of News (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro).
 
 - The Long-term Effects of Expanding Social Capital via Social Media (with Mike Bailey).
  
