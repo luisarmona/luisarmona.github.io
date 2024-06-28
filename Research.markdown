@@ -17,13 +17,14 @@ permalink: /research/
 
 - [Measuring the Market for Legal Firearms](https://www.aeaweb.org/articles?id=10.1257/pandp.20241082) (with Adam M. Rosenberg). _AEA Papers and Proceedings_, 2024.
 
+- [Learning Latent Product Characteristics and Consumer Preferences From Search Data](latentblp.pdf) (with Greg Lewis and Giorgos Zervas). _Accepted, Marketing Science_ 
+	- Python Package: [Learning-Mkt-Struct](https://github.com/luisarmona/learning-mkt-struct)
+
+
 ### Working Papers 
 
 - [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
 	- Data: [College-level Value-added Estimates for Long-Run Earnings](VA_ests.csv) ([README](VA_readme.txt))
-- [Learning Latent Product Characteristics and Consumer Preferences From Search Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858377) (with Greg Lewis and Giorgos Zervas). _Accepted, Marketing Science_ 
-	- Python Package: [Learning-Mkt-Struct](https://github.com/luisarmona/learning-mkt-struct)
-
 - [What is Newsworthy? Theory and Evidence](https://www.nber.org/papers/w32512) (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro).
 
 ### Work in Progress
