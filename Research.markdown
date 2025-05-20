@@ -21,7 +21,7 @@ permalink: /research/
 ### Working Papers 
 
 - [Redesigning Federal Student Aid in Sub-baccalaureate Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300755) (with Shengmao Cao). Job Market Paper.
-- [Second-Best Amendment: Market Power and Tax Design in the Firearms Industry](secondbest.pdf) (with Adam Rosenberg)
+- [Second-Best Amendment: Market Power and Tax Design in the Firearms Industry](https://papers.ssrn.com/abstract=5194827) (with Adam Rosenberg)
 - [What is Newsworthy? Theory and Evidence](https://www.nber.org/papers/w32512) (with Matthew Gentzkow, Emir Kamenica, and Jesse Shapiro). _Forthcoming, AER:Insights_
 - [The Long-term Effects of Expanding Social Capital via Social Media](fb_rollout.pdf) (with Mike Bailey).
 
