@@ -17,7 +17,7 @@ hidden: true
 
 <img src="{{ site.baseurl }}/images/engagementphoto.jpg" alt="Wedding Photo" style="width: 100%; max-width: 600px; height: auto; display: block; margin: 20px 0;">
 
-<span class="custom-title">Fran & Lu | July 25, 2026 </span>
+<span class="custom-title">Francis & Luis | July 25, 2026 </span>
 
 Francis and I are so excited to celebrate our wedding with you! 
 
@@ -33,12 +33,7 @@ More details to come!
 
 ## Wedding Schedule 
 
-### Friday, July 24, 2026
-- Sunset Picnic at Central Park 
-    - Come and mingle with our loved ones if you're in town early! 
-    - Location within the park and exact time TBD
-
-### Saturday, July 25, 2026
+Saturday, July 25, 2026
 - 6pm-11pm: Reception at [Fandi Mata](https://fandimata.com/)
     - 74 Bayard Street Brooklyn, NY 11222
     - About a 10m walk from the Metropolitan Ave L stop if arriving via public transit
