@@ -6,7 +6,7 @@ permalink: /seminar_spring26/
 
 The HKS Applied Economics Seminar is an Economics seminar that brings economists from the Boston Area to discuss their policy-relevant microeconomics research. If you would like to be added to the email list for updates on the seminar, please contact one of the organizers below.
 
-**Location**: WAPPP Cason Conference Room (Taubman 102), HKS
+**Location**: WAPP Cason Conference Room (Taubman 102), HKS
 
 **Time**: Tuesdays, 12pm-1:15pm
 
