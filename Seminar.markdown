@@ -20,7 +20,6 @@ The HKS Applied Economics Seminar is an Economics seminar that brings economists
 | March 10 | [Richard Sweeney](https://www.richard-sweeney.com/) (Boston College) | Investment, Productivity, and Selection in the U.S. Shale Boom |
 | --- --- | --- | --- |
 | April 7  | [Parag Pathak](https://economics.mit.edu/people/faculty/parag-pathak) (MIT) | TBA |
-| April 21 | [Lindsey Raymond](https://www.lindseyrraymond.com/) (MIT) | TBA |
 | May 5 | [Mariana Laverde](https://www.mlaverde.com/) (Boston College) | TBA |
 
 ---
