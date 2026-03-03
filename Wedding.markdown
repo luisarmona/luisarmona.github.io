@@ -25,7 +25,7 @@ We will be getting married in New York City - our favorite place in the world.
 
 Our vow exchange and reception will be in Brooklyn, where we'll have tapas, pizza, and a whole lot of dancing!
 
-Space is limited, so please let us know if you can come [here](https://docs.google.com/forms/d/1w11NzGhuyFqOX68iD7UW9Q36f5Jf7vQGJ9L3jGwtz90/viewform?edit_requested=true) by no later than **February 15, 2026**. 
+Space is limited, so please let us know if you can come [here](https://docs.google.com/forms/d/1w11NzGhuyFqOX68iD7UW9Q36f5Jf7vQGJ9L3jGwtz90/viewform?edit_requested=true). 
 
 While we love your little ones, we ask that you leave your children at home for the night.
 
