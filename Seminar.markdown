@@ -19,8 +19,8 @@ The HKS Applied Economics Seminar is an Economics seminar that brings economists
 | --- --- | --- | --- |
 | March 10 | [Richard Sweeney](https://www.richard-sweeney.com/) (Boston College) | Investment, Productivity, and Selection in the U.S. Shale Boom |
 | --- --- | --- | --- |
-| April 7  | [Parag Pathak](https://economics.mit.edu/people/faculty/parag-pathak) (MIT) | TBA |
-| May 5 | [Mariana Laverde](https://www.mlaverde.com/) (Boston College) | TBA |
+| April 7  | [Parag Pathak](https://economics.mit.edu/people/faculty/parag-pathak) (MIT) | Putting School Surveys to the Test |
+| May 5 | [Mariana Laverde](https://www.mlaverde.com/) (Boston College) | Disentangling School and Peer Effects: A Non-linear Approach with School Lotteries |
 
 ---
 We encourage HKS Applied Economics Seminar attendees to attend the [Stone Inequality & Social Policy Seminar](https://inequality.hks.harvard.edu/seminar)  on weeks the seminar does not meet. For the Spring 2026 semester, the Stone seminar is inviting economists to present their academic research on 3/23 (Joshua Gottlieb), 3/30 (Susan Dynarski), and 4/13 (Lisa Lynch).
