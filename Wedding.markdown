@@ -31,13 +31,22 @@ While we love your little ones, we ask that you leave your children at home for 
 
 More details to come!
 
-## Wedding Schedule 
+## Wedding Reception Details
 
 Saturday, July 25, 2026
-- 6pm-11pm: Reception at [Fandi Mata](https://fandimata.com/)
-    - 74 Bayard Street Brooklyn, NY 11222
-    - About a 10m walk from the Metropolitan Ave L stop if arriving via public transit
-- 11pm-Late: Afters at one of Brooklyn's fine late-night establishments, likely [Nowadays](https://nowadays.nyc/)
+Reception at [Fandi Mata](https://fandimata.com/) on Saturday, July 25, 2026 from 6pm-11pm
+
+- Address: 74 Bayard Street Brooklyn, NY 11222
+- If you have allergies, please e-mail us at [luisarmona@gmail.com](mailto:luisarmona@gmail.com) or [francis.goyes@gmail.com](mailto:francisgoyes@gmail.com) so we can let the venue know.
+- Schedule 
+    - 6pm-6:45pm: Cocktails
+    - 6:45pm-7pm: Vow Exchange 
+    - 7-11pm: Music/Dancing
+    - 11pm-Late: Afters at [Nowadays](https://nowadays.nyc/) (Details to come on this part).
+- Attire
+    -  Dress to Dazzle! In ode to the NY summer heat and our love of groovy disco, the theme will be [Tropical Disco](https://www.pinterest.com/urban_human90/wedding-vibes/?invite_code=ada246d0524d46b29cdcef04044e3d52&sender=480266885171003935)! Sparkles, sequins, and vibrant colors are encouraged!
+
+- Your presence on the dance floor is all we need, but if you are feeling extra generous, we have set up a registry for our future life expenses, and would greatly appreciate any contributions. The link is [here](https://withjoy.com/francis-and-luis/registry?utm_medium=web&utm_source=joy&utm_campaign=share_website_dialog).
 
 ### Suggested Hotels 
 For those coming from outside the NYC area, we recommend the following hotels that are near the venue: 
