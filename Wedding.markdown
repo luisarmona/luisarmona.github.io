@@ -29,16 +29,15 @@ Space is limited, so please let us know if you can come [here](https://docs.goog
 
 While we love your little ones, we ask that you leave your children at home for the night.
 
-More details to come!
+If you have allergies, please e-mail us at [luisarmona@gmail.com](mailto:luisarmona@gmail.com) or [francis.goyes@gmail.com](mailto:francisgoyes@gmail.com) so we can let the venue know.
 
 ## Wedding Reception Details
 
-Saturday, July 25, 2026
 Reception at [Fandi Mata](https://fandimata.com/) on Saturday, July 25, 2026 from 6pm-11pm
 
-- Address: 74 Bayard Street Brooklyn, NY 11222
-- If you have allergies, please e-mail us at [luisarmona@gmail.com](mailto:luisarmona@gmail.com) or [francis.goyes@gmail.com](mailto:francisgoyes@gmail.com) so we can let the venue know.
-- Schedule 
+- Address
+    - 74 Bayard Street Brooklyn, NY 11222
+- Schedule
     - 6pm-6:45pm: Cocktails
     - 6:45pm-7pm: Vow Exchange 
     - 7-11pm: Music/Dancing
@@ -46,7 +45,8 @@ Reception at [Fandi Mata](https://fandimata.com/) on Saturday, July 25, 2026 fro
 - Attire
     -  Dress to Dazzle! In ode to the NY summer heat and our love of groovy disco, the theme will be [Tropical Disco](https://www.pinterest.com/urban_human90/wedding-vibes/?invite_code=ada246d0524d46b29cdcef04044e3d52&sender=480266885171003935)! Sparkles, sequins, and vibrant colors are encouraged!
 
-- Your presence on the dance floor is all we need, but if you are feeling extra generous, we have set up a registry for our future life expenses, and would greatly appreciate any contributions. The link is [here](https://withjoy.com/francis-and-luis/registry?utm_medium=web&utm_source=joy&utm_campaign=share_website_dialog).
+### Registry
+Your presence on the dance floor is all we need, but if you are feeling extra generous, we have set up a registry for our future life expenses, and would greatly appreciate any contributions. The link is [here](https://withjoy.com/francis-and-luis/registry?utm_medium=web&utm_source=joy&utm_campaign=share_website_dialog).
 
 ### Suggested Hotels 
 For those coming from outside the NYC area, we recommend the following hotels that are near the venue: 
@@ -56,3 +56,6 @@ For those coming from outside the NYC area, we recommend the following hotels th
      - 9m walk from Fandi Mata
 - [Bklyn House](https://bklynhousehotel.com/) $
      - 12m ride from Fandi Mata
+
+### NYC Recommendations for the trip
+You're in New York - the possibilities are endless! But if you want food, bar and activity recommendations, we've added some of our favorites [here](https://docs.google.com/spreadsheets/d/1qDeYzerOShMUGsjy4uxphiLLr_mDPbV6DXJ5NtX4aK8/edit?usp=drivesdk)
